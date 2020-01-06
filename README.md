@@ -5,4 +5,8 @@ Quick Response (QR) code is one of the most worldwide used two-dimensional codes
 
 <div align=center><src="https://github.com/SwordHolderSH/Videolized-Aesthetic-QR-Codes/blob/master/demo/12_full.gif"/></div>
 
+![image](https://github.com/SwordHolderSH/Videolized-Aesthetic-QR-Codes/blob/master/demo/24_full.gif)
+
+![image](https://github.com/SwordHolderSH/Videolized-Aesthetic-QR-Codes/blob/master/demo/12_full.gif)
+
 
