@@ -4,9 +4,9 @@ Quick Response (QR) code is one of the most worldwide used two-dimensional codes
 
 ## Demo
 
-.<div align=center><img src="https://github.com/SwordHolderSH/Videolized-Aesthetic-QR-Codes/blob/master/demo/24_full.gif" width="600" /></div>
+.<div align=center><img src="https://github.com/SwordHolderSH/Videolized-Aesthetic-QR-Codes/blob/master/demo/24_full.gif" width="500" /></div>
 
-.<div align=center><img src="https://github.com/SwordHolderSH/Videolized-Aesthetic-QR-Codes/blob/master/demo/12_full.gif" width="600" /></div>
+.<div align=center><img src="https://github.com/SwordHolderSH/Videolized-Aesthetic-QR-Codes/blob/master/demo/12_full.gif" width="500" /></div>
 
 
 
